@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Exercicios 2 GFT_UNI/1.0.0": {
+        "runtime": {
+          "Exercicios 2 GFT_UNI.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Exercicios 2 GFT_UNI/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,13 @@
+C:\Users\Lucas\source\repos\Exercicios 2 GFT_UNI\Exercicios 2 GFT_UNI\bin\Debug\netcoreapp3.1\Exercicios 2 GFT_UNI.exe
+C:\Users\Lucas\source\repos\Exercicios 2 GFT_UNI\Exercicios 2 GFT_UNI\bin\Debug\netcoreapp3.1\Exercicios 2 GFT_UNI.deps.json
+C:\Users\Lucas\source\repos\Exercicios 2 GFT_UNI\Exercicios 2 GFT_UNI\bin\Debug\netcoreapp3.1\Exercicios 2 GFT_UNI.runtimeconfig.json
+C:\Users\Lucas\source\repos\Exercicios 2 GFT_UNI\Exercicios 2 GFT_UNI\bin\Debug\netcoreapp3.1\Exercicios 2 GFT_UNI.runtimeconfig.dev.json
+C:\Users\Lucas\source\repos\Exercicios 2 GFT_UNI\Exercicios 2 GFT_UNI\bin\Debug\netcoreapp3.1\Exercicios 2 GFT_UNI.dll
+C:\Users\Lucas\source\repos\Exercicios 2 GFT_UNI\Exercicios 2 GFT_UNI\bin\Debug\netcoreapp3.1\Exercicios 2 GFT_UNI.pdb
+C:\Users\Lucas\source\repos\Exercicios 2 GFT_UNI\Exercicios 2 GFT_UNI\obj\Debug\netcoreapp3.1\Exercicios 2 GFT_UNI.csprojAssemblyReference.cache
+C:\Users\Lucas\source\repos\Exercicios 2 GFT_UNI\Exercicios 2 GFT_UNI\obj\Debug\netcoreapp3.1\Exercicios 2 GFT_UNI.AssemblyInfoInputs.cache
+C:\Users\Lucas\source\repos\Exercicios 2 GFT_UNI\Exercicios 2 GFT_UNI\obj\Debug\netcoreapp3.1\Exercicios 2 GFT_UNI.AssemblyInfo.cs
+C:\Users\Lucas\source\repos\Exercicios 2 GFT_UNI\Exercicios 2 GFT_UNI\obj\Debug\netcoreapp3.1\Exercicios 2 GFT_UNI.csproj.CoreCompileInputs.cache
+C:\Users\Lucas\source\repos\Exercicios 2 GFT_UNI\Exercicios 2 GFT_UNI\obj\Debug\netcoreapp3.1\Exercicios 2 GFT_UNI.dll
+C:\Users\Lucas\source\repos\Exercicios 2 GFT_UNI\Exercicios 2 GFT_UNI\obj\Debug\netcoreapp3.1\Exercicios 2 GFT_UNI.pdb
+C:\Users\Lucas\source\repos\Exercicios 2 GFT_UNI\Exercicios 2 GFT_UNI\obj\Debug\netcoreapp3.1\Exercicios 2 GFT_UNI.genruntimeconfig.cache
